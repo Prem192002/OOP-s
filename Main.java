@@ -5,7 +5,7 @@ class student{
 }
 
 
-public class  person {
+public class  Main {
 
     
 
