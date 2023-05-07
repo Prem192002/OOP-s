@@ -1,11 +1,19 @@
-public class person {
+class student{
+    int roll=12;
+    String name="prem";
 
-    int age = 20;
+}
+
+
+public class  person {
+
+    
 
     public static void main(String [] args){
 
-        person rohan = new person();
-        System.out.println(rohan.age);
+        student obj1 = new student();
+        System.out.println(obj1.roll);
+        System.out.println(obj1.name);
     }
     
 }
