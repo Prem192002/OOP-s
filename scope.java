@@ -1,12 +1,12 @@
 class alg{
     int a = 10;
     int b= 50;  //class level scope can be accessed by any method within the class
-
+                //variables name cannot tbe same.
     int add(){
 
         int p = 10;
         int q = 20;  //block level scope can be accessed only within the class
-        int res = p+q;
+        int res = p+q;  //variables cannot have the same the name
         return res;
     }
 
