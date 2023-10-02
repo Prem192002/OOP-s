@@ -1,6 +1,6 @@
 
 public class studentClass {
-    static class Student{
+    public static class Student{
         String name;
         int std;
         int roll;
@@ -22,6 +22,8 @@ public class studentClass {
         b.roll = 2;
         System.out.println(a.name+" "+a.std+" "+a.roll);
         System.out.println(b.name+" "+b.std+" "+b.roll);
+
+        
         
     }
     
