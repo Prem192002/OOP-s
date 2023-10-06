@@ -1,6 +1,6 @@
 
 public class studentClass {
-    public static class Student{
+    static class Student{
         String name;
         int std;
         int roll;
