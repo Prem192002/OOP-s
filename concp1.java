@@ -6,7 +6,6 @@ public class concp1 {
 
         concp1 rohan = new concp1();
 
-        System.out.println(rohan.age);
         System.out.println(rohan.std);
 
     }
